@@ -1,7 +1,7 @@
 module.exports = async function() {
 
     this.on("world", async(req) => {
-        return "Hello World with TMS"
+        return "Hello World with TMS test"
     })
 
 }
